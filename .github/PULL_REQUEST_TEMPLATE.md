@@ -11,7 +11,7 @@ Foi Realizada a refatoração do codigo baseado em um projeto realizado no 2° s
 ## Ajustes
 
 ### Função
-<img width="730" alt="image" src="./images/image.png>
+<img width="730" alt="image" src="./images/image.png">
 
 Criação de uma função de calcular a entrada. 
 
