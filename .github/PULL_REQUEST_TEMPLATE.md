@@ -1,5 +1,5 @@
 # Descrição
-Foi Realizada a refatoração do codigo baseado em um projeto realizado no 2° semestre, na cadeira de POO, onde foi desenvolvido um jogo da serie Pokemon que é executado no Termnal do Computador (CMD ou Prompt De Comando), originalmente já foi usado o cleancode desde o inicio do projeto, onde realizei pequenas alterações no trabalho
+Foi Realizada a refatoração do codigo baseado em um projeto realizado no 2° semestre, na cadeira de Programaçao Web , onde foi desenvolvido um Site de uma imobiliaria que é executado no Termnal do Computador (CMD ou Prompt De Comando), originalmente já foi usado o cleancode desde o inicio do projeto, onde realizei pequenas alterações no trabalho
 
 ## Implementa
 
