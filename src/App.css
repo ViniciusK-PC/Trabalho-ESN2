@@ -1,0 +1,65 @@
+:root {
+ 
+  font-family: sans-serif, helvetica, Arial;
+}
+
+.titulo{
+  display: flex;
+  background-color: DarkSeaGreen;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.logo{
+  height: 120px;
+}
+
+.container {
+  max-width: 768px;
+  text-align: center;
+}
+
+.img-titulo {
+  margin-top: 50px;
+  height: 120px;
+}
+
+.principal {
+  display: flex;
+}
+
+.p-destaque {
+  font-weight: bold;
+}
+
+.img-principal {
+  width: 540px;
+  height: 320px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.rodape {
+  background-color: DarkSeaGreen;
+  color: whitesmoke;
+  height: 150px;
+  margin-top: 60px;
+}
+
+.texto-rodape {
+  margin-top: 15px;
+  margin-left: 40px;
+}
+
+.texto-parcela {
+  display: flex;
+}
+
+.rodape-texto {
+  padding-top: 10px;
+  
+}
+.texto-rodape2{
+  margin-top: 15px;
+  margin-left: 5px;
+}
