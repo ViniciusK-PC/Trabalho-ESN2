@@ -11,12 +11,12 @@ Foi Realizada a refatoração do codigo baseado em um projeto realizado no 2° s
 ## Ajustes
 
 ### Função
-<img width="730" alt="image" src="../images/image">
+<img width="730" alt="image" src="./images/image">
 
 Criação de uma função de calcular a entrada. 
 
 ### Variaveis
-<img width="730" alt="image" src="../images/image1">
+<img width="730" alt="image" src="./images/image1">
 <br/>
 Alterações:
 
